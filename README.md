@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @rugvedpund
+-👋 Hi, I’m @rugvedpund
 
-- 📫 How to reach me:
--   rugvedpund@gmail.com
--   rugved.pund@stonybrook.edu
+ 📫 How to reach me:
+  rugvedpund@gmail.com
+  rugved.pund@stonybrook.edu
 
 <!---
 
