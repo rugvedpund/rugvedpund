@@ -1,10 +1,12 @@
+
+<!---
+
 -👋 Hi, I’m @rugvedpund
 
  📫 How to reach me:
   rugvedpund@gmail.com
   rugved.pund@stonybrook.edu
 
-<!---
 
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
